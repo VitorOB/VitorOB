@@ -2,7 +2,7 @@
 
 
 - 🎓 Estou estudando HTML, CSS e começando a estudar C# .NET
-- 💻 Pretendo me tornar um Desenvolvedor Web
+- 💻 Em busca de me tornar um Desenvolvedor Web
 
 <div>
   <a href="https://github.com/VitorOB">
