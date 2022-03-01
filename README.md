@@ -1,7 +1,7 @@
 ## Olá, eu sou o Vitor Otávio 👋
 
 
-- 🎓 Estou estudando HTML, CSS, e começando a estudar C# .NET
+- 🎓 Estou estudando HTML, CSS, e começando a estudar JAVASCRIPT
 - 💻 Em busca de me tornar um Desenvolvedor Web
 
 <div>
