@@ -2,7 +2,7 @@
 
 
 - 🎓 Estou estudando HTML, CSS, e começando a estudar JAVASCRIPT
-- 💻 Em busca de me tornar um Desenvolvedor Web
+- 💻 Estagiário de programação FullStack na Teknisa Services
 
 <div>
   <a href="https://github.com/VitorOB">
