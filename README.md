@@ -1,7 +1,7 @@
 ## Olá, eu sou o Vitor Otávio 👋
 
 
-- 🎓 Estou estudando HTML, CSS, e começando a estudar JAVASCRIPT
+- 🎓 Estou estudando HTML, CSS, e JAVASCRIPT
 - 💻 Estagiário de programação FullStack na Teknisa Services
 
 <div>
