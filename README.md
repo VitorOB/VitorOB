@@ -2,7 +2,7 @@
 
 
 - 🎓 Estou estudando HTML, CSS, e JAVASCRIPT
-- 💻 Desevolvedor FullStack Trainee na Teknisa Services, atuando com jSON, JavaScript, PHP, Oracle SQL e Framework próprio.
+- 💻 Desevolvedor Web FullStack Trainee na Teknisa Services, atuando com jSON, JavaScript, PHP, Oracle SQL e Framework próprio.
 
 <div>
   <a href="https://github.com/VitorOB">
