@@ -1,7 +1,8 @@
 ## Olá, eu sou o Vitor Otávio 👋
 
 
-- 🎓 Estou estudando HTML, CSS, e JAVASCRIPT
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNOPAR.
+- 🎓 Estou estudando Desenvolvimento Web pelo DevClub, com as tecnologias HTML, CSS, JAVASCRIPT, REACT, NODE.
 - 💻 Desevolvedor Web FullStack Trainee na Teknisa, atuando com jSON, JavaScript, PHP, Oracle SQL e Framework próprio.
 
 <div>
