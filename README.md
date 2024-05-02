@@ -3,7 +3,7 @@
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNOPAR.
 - 🎓 Estou estudando Desenvolvimento Web pelo DevClub, com as tecnologias HTML, CSS, JAVASCRIPT, REACT, NODE.
-- 💻 Trabalho como Desenvolvedor Web FullStack Trainee na Teknisa, atuando com jSON, JavaScript, PHP, Oracle SQL e Framework próprio.
+- 💻 Trabalho como Desenvolvedor Web FullStack Trainee na Teknisa, atuando com JavaScript, PHP e Framework próprio.
 
 <div>
   <a href="https://github.com/VitorOB">
